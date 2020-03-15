@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Fabio Luciani
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Systems Immunology and Immunogenomics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of New South Wales
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: theoretical physicist
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Theoretical Biology and Immunology 
+    institution: Humboldt University Berlin
+    year: 2006
+  - course: Masters in Theoretical physics
+    institution: University of Bologna
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +41,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/FabioItAus
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=3UO6C3sAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/FabioItAus
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +61,26 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{{< figure library="true" src="Headshot_Fabio_3.jpg" title="Fabio" lightbox="true" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+## Goals of our lab
+
+Our lab is multi-disciplinary and combines immunology, bioinformatics, mathematics and statistics, and molecular biology for understanding how immune cells respond to pathogens and cancer. PhD and Honours candidates are welcome to join us and work on either
+'wet' (laboratory) or 'dry' (computational) projects (or both). 
+PhD Scholarships are available for international candidates. Summer Research Scholarships are available for third year undergraduates.
+
+### Diseases we are studying
+
+Our lab foucssed on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to r(espond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
+It appears a very broad raneg of ineterst, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immuen system!
+
+### Tehcnologies we use to achieve these goals.
+Single cell genomics
+
+Bioinformatics
+
+Expeirmental Immunology
