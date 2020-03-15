@@ -5,3 +5,7 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+#+++
+title = "Fabio Luciani's lab"
+baseurl = "https://fabiolucianilab.netlify.com"
+#+++
