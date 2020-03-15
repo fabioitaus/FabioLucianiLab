@@ -12,3 +12,5 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+#{{< figure library="true" src="Headshot_Fabio.png" title="Fabio Luciani" lightbox="true" >}}
+

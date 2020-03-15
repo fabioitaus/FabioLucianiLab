@@ -15,21 +15,26 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "cv"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Genomics"
+  description = "25%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cv"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "25%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "academia"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Immunology"
+  description = "25%"
 
+[[feature]]
+  icon = "cv"
+  icon_pack = "fas"
+  name = "Single cell tehcnologies"
+  description = "25%"
 +++
